@@ -1,0 +1,7 @@
+# Core dependencies for facial recognition project
+opencv-contrib-python==4.12.0.88
+streamlit==1.50.0
+
+# Supporting dependencies that might be useful
+numpy==2.1.3
+pillow==11.3.0
