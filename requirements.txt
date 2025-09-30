@@ -1,5 +1,5 @@
 # Core dependencies for facial recognition project
-opencv-contrib-python==4.12.0.88
+opencv-contrib-python-headless==4.12.0.88
 streamlit==1.50.0
 
 # Supporting dependencies that might be useful
